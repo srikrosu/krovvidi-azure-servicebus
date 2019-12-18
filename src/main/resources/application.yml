@@ -1,0 +1,5 @@
+spring:
+  jms:
+    servicebus:
+      connection-string: Endpoint=sb://krovvidi.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=KRiZFLJKtyRPe8NSO57565O4ir6IumjeyRUIJxSFJ3s=
+      idle-timeout: 500000
